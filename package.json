@@ -10,7 +10,7 @@
   "start": "concurrently \"npm run server\" \"npm run dev\"",
   "setup": "mkdir -p public/js && cp ./node_modules/socket.io-client/dist/socket.io.js public/js/socket.io.js"
 },
-  "keywords": [],
+  "keywords": [], 
   "author": "",
   "license": "ISC",
   "dependencies": {
